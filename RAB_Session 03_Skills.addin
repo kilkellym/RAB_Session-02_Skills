@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
   <AddIn Type="Command">
-    <Text>Command RAB_Session 02_Skills</Text>
+    <Text>Command RAB_Session 03_Skills</Text>
     <Description>Some description for RAB_Session 02_Skills</Description>
     <Assembly>RAB_Session 02_Skills.dll</Assembly>
     <FullClassName>RAB_Session_02_Skills.Command</FullClassName>
